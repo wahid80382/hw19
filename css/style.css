@@ -1,0 +1,12 @@
+a{
+    font-size: 60px;
+    color: cornflowerblue;
+    display:inline-block;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+div{
+    text-align: center;
+    padding-top: 50px;
+}
